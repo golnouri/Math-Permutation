@@ -21,6 +21,6 @@ The codes are created using a random generation approach, not a mathematical per
 - Regular Expressions (`System.Text.RegularExpressions`)
 - .NET Base Class Library
 
-،اشدن غخ
+
 © Mojtaba Golnouri  
 GitHub: https://github.com/golnouri
